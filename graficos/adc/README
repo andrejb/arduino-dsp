@@ -1,0 +1,4 @@
+values1.txt contains previously (i.e. wrong and outdated) measured ADC
+frequency.
+
+values2.txt contains measured frequency according to ../../src/1.adc-freq
